@@ -8,7 +8,7 @@ const Home = () => {
 
   return (
     <div className="container mt-5">
-      <h1 className="text-center mb-4">Programming Languages</h1>
+      <h1 className="text-center mb-4">Courses Offered!</h1>
 
       <div className="row">
         <div className="col-md-3 mb-4">
@@ -26,7 +26,7 @@ const Home = () => {
 
         <div className="col-md-3 mb-4">
           <div className="card">
-            <img src="https://source.unsplash.com/random/1920x1080/?python" className="card-img-top" alt="Python" />
+            <img src="https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1526379095098-d400fd0bf935" className="card-img-top" alt="Python" />
             <div className="card-body">
               <h5 className="card-title">Python</h5>
               <p className="card-text">
@@ -39,7 +39,7 @@ const Home = () => {
 
         <div className="col-md-3 mb-4">
           <div className="card">
-            <img src="https://source.unsplash.com/random/1920x1080/?java" className="card-img-top" alt="Java" />
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr9hAVEXNfjxGyBZsbUVSEPgS0tdXXX5JmfORQa18cHDqP0P4rZdaLiwMczxRT6uC-8jg&usqp=CAU" className="card-img-top" alt="Java" />
             <div className="card-body">
               <h5 className="card-title">Java</h5>
               <p className="card-text">
@@ -52,7 +52,7 @@ const Home = () => {
 
         <div className="col-md-3 mb-4">
           <div className="card">
-            <img src="https://source.unsplash.com/random/1920x1080/?C++" className="card-img-top" alt="C++" />
+            <img src="https://source.unsplash.com/random/1920x1080/?C-language" className="card-img-top" alt="C++" />
             <div className="card-body">
               <h5 className="card-title">C++</h5>
               <p className="card-text">

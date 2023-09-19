@@ -1,5 +1,5 @@
-/* Add this CSS to your existing styles */
+
 .dropdown-menu .dropdown-item:hover {
-  background-color: #6c757d; /* Change the background color on hover */
-  color: #ffffff; /* Change the text color on hover */
+  background-color: #6c757d; 
+  color: #ffffff; 
 }
