@@ -52,7 +52,7 @@ const Home = () => {
 
         <div className="col-md-3 mb-4">
           <div className="card">
-            <img src="https://source.unsplash.com/random/1920x1080/?C-language" className="card-img-top" alt="C++" />
+            <img src="https://source.unsplash.com/random/1920x1080/?C++-programminglanguage" className="card-img-top" alt="C++" />
             <div className="card-body">
               <h5 className="card-title">C++</h5>
               <p className="card-text">

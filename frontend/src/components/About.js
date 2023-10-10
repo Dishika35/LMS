@@ -37,7 +37,7 @@ const About = () => {
                 className={`dropdown-item ${selectedSection === 'section1' ? 'active' : ''}`}
                 onClick={() => handleDropdownClick('section1')}
               >
-                Section 1
+                Our Mentors
               </button>
             </li>
             <li>
@@ -45,7 +45,7 @@ const About = () => {
                 className={`dropdown-item ${selectedSection === 'section2' ? 'active' : ''}`}
                 onClick={() => handleDropdownClick('section2')}
               >
-                Section 2
+                Our Founders
               </button>
             </li>
             <li>
@@ -53,7 +53,7 @@ const About = () => {
                 className={`dropdown-item ${selectedSection === 'section3' ? 'active' : ''}`}
                 onClick={() => handleDropdownClick('section3')}
               >
-                Section 3
+                Our Alumni
               </button>
             </li>
           </ul>
